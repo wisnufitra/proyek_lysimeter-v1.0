@@ -1,0 +1,68 @@
+{
+    "theme": "Dark",
+    "calibration": {
+        "temperature": {
+            "m": 1.0,
+            "c": 0.0,
+            "last_calibrated": "2025-08-25"
+        },
+        "humidity": {
+            "m": 1.0,
+            "c": 0.0,
+            "last_calibrated": "2025-08-25"
+        },
+        "moisture": {
+            "m": 1.0,
+            "c": 0.0,
+            "last_calibrated": "2025-08-25"
+        },
+        "ph": {
+            "m": 1.0,
+            "c": 0.0,
+            "last_calibrated": "2025-08-25"
+        },
+        "ec": {
+            "m": 1.0,
+            "c": 0.0,
+            "last_calibrated": "2025-08-25"
+        },
+        "nitrogen": {
+            "m": 1.0,
+            "c": 0.0,
+            "last_calibrated": "2025-08-25"
+        },
+        "phosphorus": {
+            "m": 1.0,
+            "c": 0.0,
+            "last_calibrated": "2025-08-25"
+        },
+        "potassium": {
+            "m": 1.0,
+            "c": 0.0,
+            "last_calibrated": "2025-08-25"
+        },
+        "energy": {
+            "m": 1.0,
+            "c": 0.0,
+            "last_calibrated": "2025-08-25"
+        },
+        "cps": {
+            "m": 1.0,
+            "c": 0.0,
+            "last_calibrated": "2025-08-25"
+        },
+        "activity": {
+            "m": 1.0,
+            "c": 0.0,
+            "last_calibrated": "2025-08-25"
+        }
+    },
+    "thresholds": {
+        "temp_warn": 28.0,
+        "temp_danger": 32.0,
+        "moisture_warn": 40.0,
+        "moisture_danger": 30.0,
+        "cps_warn": 99,
+        "cps_danger": 99
+    }
+}
